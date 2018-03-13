@@ -1,0 +1,1 @@
+alter table Persons ADD age INT NOT NULL Default 0;
