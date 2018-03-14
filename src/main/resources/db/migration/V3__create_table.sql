@@ -1,0 +1,4 @@
+CREATE  TABLE demo(
+  id INT PRIMARY KEY,
+  NAME VARCHAR (50)
+);
