@@ -1,0 +1,9 @@
+CREATE TABLE dept(
+  id INT  PRIMARY  KEY ,
+  NAME  VARCHAR (50)
+);
+aaaaaaaa;
+CREATE TABLE WORK (
+  id INT PRIMARY KEY,
+  dept INT
+);
