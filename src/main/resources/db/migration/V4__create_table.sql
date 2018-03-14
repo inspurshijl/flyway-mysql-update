@@ -3,7 +3,6 @@ CREATE TABLE dept(
   NAME  VARCHAR (50)
 );
 
-sdsdsd
 CREATE TABLE WORK (
   id INT PRIMARY KEY,
   dept INT
