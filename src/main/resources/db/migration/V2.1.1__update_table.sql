@@ -1,1 +1,0 @@
-alter table persons  drop column age;

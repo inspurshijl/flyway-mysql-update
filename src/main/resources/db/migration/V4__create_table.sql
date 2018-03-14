@@ -3,7 +3,7 @@ CREATE TABLE dept(
   NAME  VARCHAR (50)
 );
 
-CREATE TABLE WORK (
+CREATE TABLE work_space (
   id INT PRIMARY KEY,
   dept INT
 );
