@@ -2,6 +2,8 @@ CREATE TABLE dept(
   id INT  PRIMARY  KEY ,
   NAME  VARCHAR (50)
 );
+
+sdsdsd
 CREATE TABLE WORK (
   id INT PRIMARY KEY,
   dept INT
